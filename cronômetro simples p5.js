@@ -1,0 +1,17 @@
+var dataInicial = new Date();
+var tempoInicial = dataInicial.getTime();
+var tempoTranscorrido= 0;
+
+function setup() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+  background(220);
+  text(tempoTranscorrido/1000+ ' s', 10, 50);
+  if(mouseIsPressed){
+    var dataAtual = new Date();
+    var tempoAtual = dataAtual.getTime();
+    tempoTranscorrido = tempoAtual - tempoInicial;
+  }
+}
