@@ -1,1 +1,1 @@
-# yasmini
+Olá, esse repositório é onde coloco meus estudos de lógica de programação usando JavaScript. Sou iniciante no mundo da programação e espero que no futuro, ao abrir esse repositório, eu lembre com orgulho de como comecei e veja a minha evolução.
