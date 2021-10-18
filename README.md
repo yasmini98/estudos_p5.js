@@ -1,1 +1,1 @@
-Olá, esse repositório é onde coloco meus estudos de lógica de programação usando JavaScript. Sou iniciante no mundo da programação e espero que no futuro, ao abrir esse repositório, eu veja minha evolução e fique orgulhosaao lembrar como comecei.
+Olá, esse repositório é onde coloco meus estudos de lógica de programação usando JavaScript. Sou iniciante no mundo da programação e espero que no futuro, ao abrir esse repositório, eu veja minha evolução e fique orgulhosa ao lembrar como comecei.
